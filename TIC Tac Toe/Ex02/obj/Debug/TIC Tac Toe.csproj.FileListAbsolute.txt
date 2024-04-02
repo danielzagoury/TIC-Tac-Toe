@@ -1,0 +1,9 @@
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\bin\Debug\Ex02.exe.config
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\bin\Debug\Ex02.exe
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\bin\Debug\Ex02.pdb
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\obj\Debug\TIC Tac Toe.csproj.AssemblyReference.cache
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\obj\Debug\TIC Tac Toe.csproj.CoreCompileInputs.cache
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\obj\Debug\TIC Tac Toe.csproj.CopyComplete
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\obj\Debug\Ex02.exe
+C:\MyProjects\A24 Ex02 Daniel 209380021 Dvir 200695104\Ex02\obj\Debug\Ex02.pdb
